@@ -1,6 +1,8 @@
 # MongoDB-Project Analyzing US Airline Flight Delay
 MongoDB Project Analyzing US Airline Flight Delay
 
+All data was stored on MongoDB.
+
 The Airlines JSON File from CORGIS Dataset Project
 (https://think.cs.vt.edu/corgis/datasets/json/airlines/airlines.json) was my dataset of choice. This
 dataset contains monthly data on US flights delays, airports, airlines, years, months and detailed
